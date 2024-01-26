@@ -3,7 +3,7 @@ MyRecipeApp is a delightful Android application designed for culinary enthusiast
 Powered by the MealDB API, this app brings you a vast array of recipes, each accompanied by enticing images and detailed information.
 The project is built with the latest Android development technologies, ensuring a seamless and visually appealing experience.
 
-Features
+Features:
 Recipe Discovery: Explore a diverse range of recipes from different cuisines.
 Stunning Visuals: Enjoy high-quality images for each recipe, making your culinary journey visually enticing.
 Modular Architecture: MyRecipeApp follows the MVVM architectural pattern for clean, modular, and maintainable code.
